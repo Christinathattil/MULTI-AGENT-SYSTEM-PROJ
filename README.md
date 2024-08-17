@@ -86,7 +86,7 @@ To install the required dependencies, use the following command:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/badrinarayanan17/Agentic-Analysis
+   git clone https://github.com/Christinathattil/MULTI-AGENT-SYSTEM-PROJ
 
    cd Agentic-Analysis
 
